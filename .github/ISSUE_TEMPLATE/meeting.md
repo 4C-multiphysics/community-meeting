@@ -24,7 +24,7 @@ assignees: ''
 <!-- List of participants -->
 
 ### Invited Participants
-@developers
+@4C-multiphysics/developers
 
 ## Agenda
 <!-- Team members can add items to the agenda before the meeting.          -->
