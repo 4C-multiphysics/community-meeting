@@ -7,32 +7,36 @@ assignees: ''
 
 ---
 
-<!-- Set the following issue title: "4C Developer Meeting on dd.mm.yyyy" -->
+<!-- Set the following issue title: "4C Community Meeting on dd.mm.yyyy" -->
 
 > **Important:** Document progress, decisions and action items of this meeting in this issue.
 
 <!-- Date of the meeting -->
 ### Scheduling
 
+Meeting:
+
 - Date: dd.mm.yyyy
 - Time: xx.yy
 - Host: @somebody
 - Notes: @somebody-else
 
+Deadline for agenda submissions: dd.mm.yyyy
+
 Link to Zoom meeting: https://tum-conf.zoom.us/j/66092257079?pwd=ZDNIV3JJb1VOK1FVR1ZIMkFJc2hJQT09
 
 <!-- List of participants -->
 
-### Invited Participants
-@4C-multiphysics/developers
+## Format of the Community Meeting
+
+The 4C Community Meeting is open to everybody with an interest in 4C,
+e.g. active @4C-multiphysics/developers but also all 4C users.
+
+The planning of the meeting starts with a blank agenda, so the community can propose discussion topics up to two days before the meeting. Please add your items below. If no topics are submitted, the meeting will be canceled two days prior to the meeting
+
 
 ## Agenda
 <!-- Team members can add items to the agenda before the meeting.          -->
-
-1. Review **Action Items** from the previous meeting <!-- Link to previous meeting -->
-1. Questions regarding the notes from the maintainer meeting
-1. Update from the task forces
-1. TO BE ADDED
 
 ## Action Items
 
