@@ -23,7 +23,7 @@ Meeting:
 
 Deadline for agenda submissions: dd.mm.yyyy
 
-Link to Zoom meeting: https://tum-conf.zoom.us/j/66092257079?pwd=ZDNIV3JJb1VOK1FVR1ZIMkFJc2hJQT09
+Link to Zoom meeting: https://unibw.zoom-x.de/j/68489484452?pwd=bWU5Tmc3OXQ2bGxnNTZQVmt1aEt2UT09
 
 <!-- List of participants -->
 
